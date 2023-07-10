@@ -5,3 +5,15 @@
 2. 네트워크 기초 개정판 블로그 이전 <br/>
 
 3. 100daysdevops 블로그 이전 <br/>
+
+2023-07-10 <br/>
+
+1. 네트워크 기초 개정판
+    + What is network?
+    + tracert
+    + Wireshark
+    + Netowork model
+    + IP (part1, part2)
+    + ARP protocol
+    + IP protocol structure(IP, ICMP, IPv4)
+
