@@ -17,3 +17,15 @@
     + ARP protocol
     + IP protocol structure(IP, ICMP, IPv4)
 
+2023-07-11 <br/>
+
+1. 네트워크 기초 개정판
+    + IP protocol structure(IP, ICMP, IPv4)
+    + Routing (part1, part2)
+    + Fragmentation (part1, part2)
+    + TCP/IP 4 layer
+    + Port number 
+    + UDP
+
+
+
