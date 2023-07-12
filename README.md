@@ -27,5 +27,14 @@
     + Port number 
     + UDP
 
+2023-07-12 <br/>
+
+1. 네트워크 기초 개정판
+    + WWW
+    + URL, URI
+    + HTTP(part1, part2, part3)
+
+
+
 
 
